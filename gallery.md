@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Image Gallery
-subtitle: An example image gallery page
-description: A simple image gallery page 
+subtitle: Science and mental health themed art and miscellaneous
 gallery: example_gallery
 show_sidebar: false
+hero_height: is-small
 ---
 
 This is a page displaying a simple image gallery.

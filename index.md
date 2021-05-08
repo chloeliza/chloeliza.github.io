@@ -1,55 +1,16 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
 layout: page
-callouts: home_callouts
+hero_image: /img/zinnia_big.jpg
+hero_height: is-large
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# Welcome!
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+My name is Dr. Chloe Page. I received my PhD in Neuroscience in 2019 from Ohio State University. My predominant research interests are the mechanisms of mental health conditions like depression, anxiety, and PTSD, as well as the basic biology of how we experience and process emotions. I am currently a postdoc at the University of Pittsburgh.
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+I assembled this website to highlight my professional portfolio and also to summarize my readings on topics of interest in the form of blog posts. These posts are an outlet for articulating my thoughts as I go through the process of learning and understanding, and also serve as a sort of laboratory for exploring how ideas inspire and inform each other. I hope you can find something of interest here as well.
 
-## Ruby Gem
+## What's with the flower?
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
-
-## GitHub Pages
-
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
-
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-## Instructions
-
-For full instructions, please see the Readme at the GitHub repo:
-[https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md](https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md)
-
-## Page Layouts
-
-This demo site showcases the available page layout options.
-
-* Page With Sidebar
-* Page Without Sidebar
-* Page With Menubar
-* Page With Tabs
-* Page Without Footer
-* Page Without Hero
-* Page With Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+The zinnia was the [first flower to bloom in space](https://www.nasa.gov/image-feature/first-flower-grown-in-space-stations-veggie-facility), making it a delightful symbol of discovery, creation, and resilience. These themes inspire my work in the fields of neuroscience and mental health.

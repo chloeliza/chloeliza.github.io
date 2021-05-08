@@ -1,14 +1,14 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Chloe Page
+# tagline: Bulma Clean Theme
+# email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: " "
+  Personal and professional website of Chloe Page, Neuroscientist
+baseurl: ""
 
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /favicon.png
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
@@ -22,7 +22,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname: 
 
 
 plugins:
@@ -42,7 +42,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-livereload: true
+# livereload: true
 
 sass:
   style: compressed
@@ -62,9 +62,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Chloe"
       layout: post
-      image: https://via.placeholder.com/1200x800
+      image: 
       show_sidebar: true
 
 markdown: kramdown

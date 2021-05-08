@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "The Quiet"
+date: 2020-04-18
+excerpt: "Mental illness as an ''other''."
+image: /img/door.jpg
+hero_image: /img/door.jpg
+hero_height: is-small
+hero_darken: true
+categories: jekyll update
+---
+
+-----
+
+"On the Other Side of Freedom: The Case for Hope" is a powerful book by activist and author Deray McKesson. This book is in all parts a history of the Black Lives Matter movement, a message to young activists, a thesis on the power of stories, and a personal memoir. He writes poignantly about his experience as someone who is gay, black, and a survivor of multiple traumas.
+
+<div class="box">
+  <p>
+When I think about the quiet, I think about the places where we've been told that we're not supposed to make a lot of noise, the places where we've been told that the only way to achieve, progress, succeed, is to work in silence. And for so many of us <i>the world</i> is that place.
+  </p>
+  <p>
+  I think about the quiet instead of "the closet" because I've never hidden any part of myself from myself or from others, and the closet seems to imply some form of hiding. And when I think about being in the closet, I think of being there alone. But there are many people raised in the quiet, still in the quiet, stuck in the quiet, together. And they don't always know that they're not alone, even if it feels like they are. I was never hiding, as the image of the closet implies. But I grew up quieter about the parts of myself that I didn't think anyone would love, the parts that I had never seen loved in others, the parts that might put me in danger if they were seen and heard as publicly as every other part of me.
+  </p>
+</div>
+
+Those who can identify with some experience as an "other" can likely relate to being in the quiet. If you are of a minority or disadvantaged group according to race, socioeconomic status, gender, or sexual orientation, it may be hard to express parts of yourself that come from that identity. That is because, as McKesson says, "[the quiet] creates a world in which those not in the quiet - generally those in power - believe that they're the only people, that they are the sum total of humanity."
+
+I would add to the list of "others": those who experience mental illness or psychological trauma. I believe that those of us struggling in this realm can relate deeply to McKesson's words. It remains difficult in this world to be anything other than quiet about mental illness because of the fear of rejection, judgment, or retaliation in professional and personal domains. Those with mental health conditions still struggle to be considered on par with "legitimate" (physical or bodily) conditions despite the evidence from neuroscience that mental illness involves physical changes within the brain. 
+
+<img style="float: left; margin-right: 1em;" width="25%" height="25%" src="/img/freedom.jpg">
+
+However, things are shifting, mainly due to courageous individuals who share their stories. This doesn't have to be in an outspoken way - as McKesson says, "there is power in collective whispers." Therefore, these stories do not have to be centrally _about_ mental illness. They can be the story of an individual, with all of his or her or their complexities, of which mental illness is a part. McKesson writes, "In activism, I am often asked if I am gay or black first, as if I am not black and gay and male at the same time, all day, every day [...] We have to remember that we are all of our identities at once, every time." Some people feel empowered by incorporating mental illness as part of their identity. Others feel that this gives the illness itself too much power. There is no wrong way, the story is personal. But stories help. <i>"When those in the quiet come out of it, and come together, the world changes."</i>
+
+-----
