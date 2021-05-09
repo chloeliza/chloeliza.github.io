@@ -10,13 +10,21 @@ hero_height: is-small
 <h3>Education and Training</h3>
 
 <h4>University of Pittsburgh, Pittsburgh PA</h4>
-Postdoctoral Associate [2020 - present]
+<p>Postdoctoral Associate [2020 - present]</p>
+<p>Certified in STEM Teaching from the Center for Integrating Research, Teaching, and Learning (CIRTL)</p>
+<p>Member, Gender & Racial Equity university subcommittee</p>
+
 
 <h4>Ohio State University, Columbus OH</h4>
-Doctor of Philosophy, Neuroscience; Master of Science [2014-2019]
+<p>Doctor of Philosophy, Neuroscience; Master of Science [2014-2019]</p>
+<p>Dissertation: <i>Prefrontal excitatory/inhibitory balance in stress and emotional disorders: Evidence for over-inhibition</i></p>
+
 
 <h4>Kalamazoo College, Kalamazoo MI</h4>
-Bachelor of Arts, Psychology (minor: biology, theatre; concentration: neuroscience) [2008-2012]
+<p>Bachelor of Arts, Psychology (minor: biology, theatre; concentration: neuroscience) [2008-2012]</p>
+<p>Honors on senior research thesis and comprehensive exams</p>
+
+-----
 
 <h3>Research Support</h3>
 
@@ -25,6 +33,8 @@ Ohio State University Graduate School [2019]
 
 <h4>Alumni Grant for Graduate Research and Scholarship</h4>
 Ohio State University [2018]
+
+-----
 
 <h3>Select Honors and Awards</h3>
 
