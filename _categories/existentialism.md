@@ -2,7 +2,7 @@
 title: Category - Existentialism
 tag: existentialism
 layout: page
-permalink: "/blog/category/existentialism"
+permalink: "/category/existentialism"
 hero_height: is-small
 hero_darken: true
 menubar: categories_leftbar
