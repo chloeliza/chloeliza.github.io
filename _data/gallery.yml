@@ -1,0 +1,27 @@
+- title: Science and mental health themed art
+  images:
+    - link: /img/Mosaic.jpg
+      large_link: /img/Mosaic.jpg
+      alt: Digital arrangement of color blocks
+      description: |-
+        This is a Mark Rothko-inspired data visualization of the gender, age, and mental health diagnosis of the people who donated their brains to science after their deaths. The yellow color scheme represents people with no diagnosis or condition (neuropsychiatric controls). The blue color scheme represents people with a single episode of major depression. The red color scheme represents people with recurrent episodes of major depression. Increasing darkness represents increasing severity. Different hues refer to different age categories. 
+
+        The visualization evokes the nuances and diversity in depression. I believe that this diversity can be understood at the level of brain cells. In my research, I use this valuable brain tissue to explore changes in neurons between the different colors of diagnosis categories.
+
+        _Presented at <a href="https://mindscapespgh.com/">Mindscapes PGH</a> 2020 fundraising exhibit._
+      ratio: is-4by3
+    - link: /img/Encroachment.bmp
+      large_link: /img/Encroachment.bmp
+      alt: Photography series of orange light on a black background
+      description: |- 
+        _Encroachment_ visually represents a facet of depression in which tendrils of darkness pervade your perception and narrow your focus. The ability to perceive details and vibrancy diminishes with passing days. Viewed in reverse, however, hope begins to reclaim mental territory.
+
+        _Presented at <a href="https://mindscapespgh.com/">Mindscapes PGH</a> 2020 fundraising exhibit._
+      ratio: is-16by9
+
+# - title: Miscellaneous
+   #images:
+    #- link: /img/brain-club.png
+     # description: |-
+      #  In 2015, three friends connected over their mutual interest in the brain and started getting together once a week to read and discuss the latest articles in neuropharmacology, cognitive science and decision-making, and cellular and network neuroscience. Thus Brain Club was born, and I owe this ongoing group so much for always keeping me learning.
+      #ratio: is-3by4

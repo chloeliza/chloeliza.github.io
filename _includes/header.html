@@ -11,7 +11,7 @@
             </a>
         </div>
         <div class="navbar-menu" id="navMenu" :class="{ 'is-active': openNav }">
-            <div class="navbar-start">
+            <div class="navbar-end">
                 <a href="{{ site.baseurl }}/" class="navbar-item {% if page.url == "/" %}is-active{% endif %}">Home</a>
                 {% if site.data.navigation %}
                 {% for item in site.data.navigation %}
@@ -28,15 +28,6 @@
                     <a href="{{ item.link | relative_url }}" class="navbar-item {% if item.link == page.url %}is-active{% endif %}">{{ item.name }}</a>
                     {% endif %}
                 {% endfor %}
-                {% endif %}
-            </div>
-
-            <div class="navbar-end">
-                {% if site.gh_sponsor %}
-                <a class="navbar-item" href="https://github.com/sponsors/{{ site.gh_sponsor }}">
-                    <span class="icon gh-sponsor"><i class="fas fa-heart"></i></span>
-                    <span>Sponsor</span>
-                </a>
                 {% endif %}
             </div>
 

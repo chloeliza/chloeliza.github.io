@@ -7,7 +7,7 @@ image: /img/neurons.jpg
 hero_image: /img/neurons.jpg
 hero_height: is-small
 hero_darken: true
-categories: jekyll update
+categories: [neuroscience]
 ---
 
 -----

@@ -1,6 +1,8 @@
 - label: Categories
   items:
-    - name: Home
-      link: /
-    - name: Blog
-      link: /blog/
+    - name: Mental Health
+      link: /category/mental-health
+    - name: Neuroscience
+      link: /category/neuroscience
+    - name: Teaching
+      link: /category/teaching

@@ -7,7 +7,7 @@ image: /img/photos.jpg
 hero_image: /img/photos.jpg
 hero_height: is-small
 hero_darken: true
-categories: jekyll update
+categories: [mental-health]
 ---
 
 -----

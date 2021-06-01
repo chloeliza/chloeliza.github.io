@@ -3,16 +3,16 @@ title: CV
 layout: page
 show_sidebar: false
 hero_height: is-small
+hero_darken: true
 ---
 
-<a href="chloeliza.github.io/doc/CVchloepage.pdf" target="_blank">Full CV (PDF)</a>
+<a href="/doc/CVchloepage.pdf" target="_blank">Full CV (PDF)</a>
 
 <h3>Education and Training</h3>
 
 <h4>University of Pittsburgh, Pittsburgh PA</h4>
 <p>Postdoctoral Associate [2020 - present]</p>
 <p>Certified in STEM Teaching from the Center for Integrating Research, Teaching, and Learning (CIRTL)</p>
-<p>Member, Gender & Racial Equity university subcommittee</p>
 
 
 <h4>Ohio State University, Columbus OH</h4>

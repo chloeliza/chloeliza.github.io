@@ -3,6 +3,7 @@ title: Publications
 layout: page
 show_sidebar: false
 hero_height: is-small
+hero_darken: true
 menubar: publications_leftbar
 ---
 

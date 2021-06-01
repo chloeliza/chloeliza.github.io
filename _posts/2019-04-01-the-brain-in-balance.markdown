@@ -7,7 +7,7 @@ image: /img/yinyang.jpg
 hero_image: /imag/yinyang.jpg
 hero_height: is-small
 hero_darken: true
-categories: jekyll update
+categories: [neuroscience]
 ---
 
 -----
