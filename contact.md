@@ -2,7 +2,8 @@
 title: Contact
 layout: page
 show_sidebar: false
-hero_height: is-small
+hero_image: /img/mail.jpg
+hero_height: is-medium
 hero_darken: true
 ---
 
@@ -21,10 +22,6 @@ You can also find me at the following social media links:
 <span style="font-size: 36px; color: Blue;">
 <i class="fab fa-linkedin" ></i>
 </span> [LinkedIn](https://www.linkedin.com/in/chloe-page/)
-
-<span style="font-size: 36px; color: Deepskyblue;">
-<i class="fab fa-twitter" ></i>
-</span> [Twitter](https://twitter.com/chloelizapage) 
 
 -----
 

@@ -3,6 +3,7 @@ title: Category - Mental Health
 tag: mental-health
 layout: page
 permalink: "/category/mental-health"
+hero_image: /img/notebook.jpg
 hero_height: is-small
 hero_darken: true
 menubar: categories_leftbar

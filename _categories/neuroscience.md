@@ -3,6 +3,7 @@ title: Category - Neuroscience
 tag: neuroscience
 layout: page
 permalink: "/category/neuroscience"
+hero_image: /img/notebook.jpg
 hero_height: is-small
 hero_darken: true
 menubar: categories_leftbar

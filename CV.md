@@ -2,11 +2,12 @@
 title: CV
 layout: page
 show_sidebar: false
-hero_height: is-small
+hero_image: /img/path.jpg
+hero_height: is-medium
 hero_darken: true
 ---
 
-<a href="/doc/CVchloepage.pdf" target="_blank">Full CV (PDF)</a>
+<h3><a href="/doc/CVchloepage.pdf" target="_blank">Full CV (PDF)</a></h3>
 
 <h3>Education and Training</h3>
 

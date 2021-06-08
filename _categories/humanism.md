@@ -3,6 +3,7 @@ title: Category - Humanism
 tag: humanism
 layout: page
 permalink: "/category/humanism"
+hero_image: /img/notebook.jpg
 hero_height: is-small
 hero_darken: true
 menubar: categories_leftbar

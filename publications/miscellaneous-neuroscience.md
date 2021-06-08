@@ -2,6 +2,8 @@
 title: Miscellaneous neuroscience
 layout: page
 show_sidebar: false
+hero_image: /img/books.jpg
+hero_darken: true
 hero_height: is-small
 menubar: publications_leftbar
 ---
