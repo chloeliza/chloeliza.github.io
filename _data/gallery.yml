@@ -20,6 +20,18 @@
 
         _Presented at <a href="https://mindscapespgh.com/">Mindscapes PGH</a> 2020 fundraising exhibit._
       ratio: is-16by9
+    - link: /img/mindnight.png
+      large_link: /img/mindnight.png
+      alt: White light against a black background with trees in the foreground
+      description: |-
+        _Mindnight_ is a picture of a section of the human brain received from a postmortem donor. The image is specifically of the amygdala, which is important for emotional processing and frequently affected in conditions like anxiety and depression.
+
+        The “stars” in the image are all neurons, and the black areas and streaks are tracts of axons, which carry signals from neurons throughout the brain. Just as we look up at the night sky and see beauty and vastness, so too does such a universe exist inside our minds, where each neuron is its own world full of untold possibilities.
+
+        Unlike the night sky, where the stars are somewhat more fixed and predictable, the arrangement and activity of neurons in the human brain is mutable. This neuroplasticity provides hope for people suffering from mental health conditions, because interventaions like therapy, medication, and social support can change our mental landscapes.
+ 
+        _Presented at <a href="https://mindscapespgh.com/">Mindscapes PGH</a> 2021 fundraising exhibit._
+      ratio: is-4by3
 
 # - title: Miscellaneous
    #images:
