@@ -7,12 +7,18 @@ hero_height: is-medium
 hero_darken: true
 ---
 
-<h3><a href="/doc/CVchloepage.pdf" target="_blank">Full CV (PDF)</a></h3>
+<h3><a href="/doc/CV Chloe Page.pdf" target="_blank">Full CV (PDF)</a></h3>
+
+<h3>Current Role</h3>
+<h4>University of Colorado Anschutz Medical Campus</h4>
+<p>Faculty - Instructor, Science Writer [2021 - present]</p>
+
+-----
 
 <h3>Education and Training</h3>
 
 <h4>University of Pittsburgh, Pittsburgh PA</h4>
-<p>Postdoctoral Associate [2020 - present]</p>
+<p>Postdoctoral Associate [2020 - 2021]</p>
 <p>Certified in STEM Teaching from the Center for Integrating Research, Teaching, and Learning (CIRTL)</p>
 
 

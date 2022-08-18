@@ -7,9 +7,11 @@ show_sidebar: true
 
 # Welcome!
 
-My name is Dr. Chloe Page. I received my PhD in Neuroscience in 2019 from Ohio State University. My predominant research interests are the mechanisms of mental health conditions like depression, anxiety, and PTSD, as well as the basic biology of how we experience and process emotions. I am currently a postdoc at the University of Pittsburgh.
+My name is Chloe Page. I received my PhD in Neuroscience in 2019 from Ohio State University. My predominant research interests are the mechanisms of mental health conditions like depression, anxiety, and PTSD, as well as neuroanatomy and the basic biology of how we experience and process emotions. I am currently an Instructor/Science Writer at the University of Colorado.
 
 I assembled this website to highlight my professional portfolio and also to summarize my readings on topics of interest in the form of blog posts. These posts are an outlet for articulating my thoughts as I go through the process of learning and understanding, and also serve as a sort of laboratory for exploring how ideas inspire and inform each other. I hope you can find something of interest here as well.
+
+<span id="badgeCont868"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont868&rid=W-2880-2019"></script></span>
 
 ## What's with the flower?
 
