@@ -1,5 +1,5 @@
 ---
-title: Public Writings
+title: Public writings
 layout: page
 show_sidebar: false
 hero_image: /img/public-writings.jpg
