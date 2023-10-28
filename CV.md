@@ -45,6 +45,7 @@ Ohio State University [2018]
 
 <h3>Select Honors and Awards</h3>
 
+* Open Education Resources (OER) Champion Award, University of Colorado [2023]
 * Voted Neuroscience Program Student Plenary Speaker by fellow students for the Interdisciplinary Graduate Programs Life Sciences Symposium [2019]
 * Trainee Professional Development Award, Society for Neuroscience [2018]
 * Travel Award to attend the Stress Neurobiology Workshop from the Pan American Neuroendocrine Society [2018]

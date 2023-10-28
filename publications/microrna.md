@@ -8,7 +8,7 @@ hero_darken: true
 menubar: publications_leftbar
 ---
 
-MicroRNAs (miR) are non-coding strands of RNA that regulate gene expression. I contributed to research that described the effects of miR-132/212 on cognition and anxiety in mice. Knockout of miR-132/212 causes cognitive deficits in spatial and recognition memory and alters gene expression in the hippocampus. Stress exposure also upregulates expression of miR-132/212 in the hippocampus and amygdala according to stressor duration. Both overexpression and knockout of miR-132 increase anxiety-like behaviors, suggesting that this microRNA plays a role in the modulation of stress responsivity and emotional and cognitive behaviors.
+microRNAs (miR) are non-coding strands of RNA that regulate gene expression. I contributed to research that described the effects of miR-132/212 on cognition and anxiety in mice. Knockout of miR-132/212 causes cognitive deficits in spatial and recognition memory and alters gene expression in the hippocampus. Stress exposure also upregulates expression of miR-132/212 in the hippocampus and amygdala according to stressor duration. Both overexpression and knockout of miR-132 increase anxiety-like behaviors, suggesting that this microRNA plays a role in the modulation of stress responsivity and emotional and cognitive behaviors.
 
 * [Data highlighting the expression of two miR-132/212 target genes-Sirt1 and Pten-after chronic stress.](https://www.ncbi.nlm.nih.gov/pubmed/30555870)
 Aten S, **Page CE**, Kalidindi A, Wheaton KL, Niraula A, Godbout JP, Hoyt KR, Obrietan K. _Data in Brief_ (2018)

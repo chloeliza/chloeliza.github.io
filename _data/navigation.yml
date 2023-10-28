@@ -1,7 +1,7 @@
-- name: Blog
-  link: /blog/
 - name: Publications
   link: /publications/
+- name: Blog
+  link: /blog/
 - name: CV
   link: /CV/
 - name: Gallery
