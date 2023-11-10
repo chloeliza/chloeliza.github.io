@@ -1,20 +1,22 @@
-- label: Subject
+- label: Publications
   items:
-    - name: Peer-reviewed publications
-      link: /publications/
-      items:
-        - name: Neurodevelopment in the limbic system
-          link: /publications/neurodevelopment-limbic
-        - name: Stress effects on the adult prefrontal cortex
-          link: /publications/adult-stress/
-        - name: Stress effects on the adolescent prefrontal cortex
-          link: /publications/adolescent-stress/
-        - name: MicroRNA, memory, and anxiety
-          link: /publications/microrna/
-        - name: Miscellaneous neuroscience
-          link: /publications/miscellaneous-neuroscience/
-    - name: Public writings
-      link: /publications/public-writings
-    - name: Books
-      link: /publications/books/
+      - name: Peer-reviewed publications
+        link: /publications/
+        items:
+          - name: Neurodevelopment in the limbic system
+            link: /publications/peer-reviewed/neurodevelopment-limbic
+          - name: Stress effects on the adult prefrontal cortex
+            link: /publications/peer-reviewed/adult-stress/
+          - name: Stress effects on the adolescent prefrontal cortex
+            link: /publications/peer-reviewed/adolescent-stress/
+          - name: MicroRNA, memory, and anxiety
+            link: /publications/peer-reviewed/microrna/
+          - name: Miscellaneous neuroscience
+            link: /publications/peer-reviewed/miscellaneous-neuroscience/
+      - name: Public writings
+        link: /publications/public-writings
+      - name: Books
+        link: /publications/books/
+      - name: Teaching
+        link: /publications/teaching
 

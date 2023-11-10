@@ -2,7 +2,7 @@
 title: Public writings
 layout: page
 show_sidebar: false
-hero_image: /img/public-writings.jpg
+hero_image: /img/books.jpg
 hero_height: is-small
 hero_darken: true
 menubar: publications_leftbar

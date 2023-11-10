@@ -8,7 +8,9 @@ hero_darken: true
 menubar: publications_leftbar
 ---
 
-Publications are arranged by research topic in the menu on the left. To view the list of peer-reviewed publications in its entirety, please visit my [PubMed List](https://www.ncbi.nlm.nih.gov/myncbi/chloe.page.1/bibliography/public/).
+Links to my peer-reviewed publications, public writings, book contributions, and teaching content can be found in the navigation bar to the left.
+
+Peer-reviewed publications are arranged here by research topic. To view the list of peer-reviewed publications in its entirety, please visit my [PubMed List](https://www.ncbi.nlm.nih.gov/myncbi/chloe.page.1/bibliography/public/).
 
 
 
