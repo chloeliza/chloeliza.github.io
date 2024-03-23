@@ -18,6 +18,5 @@ The zinnia was the [first flower to bloom in space](https://www.nasa.gov/image-a
 <h3>Featured creations</h3>
 
 [My public writings (non-academic articles)](https://chloeliza.github.io/publications/public-writings/)
-* [“Star Trek as a guide to sharing intimate, personal details.”](https://niemanstoryboard.org/stories/star-trek-as-a-guide-to-sharing-intimate-personal-details/) Nieman Storyboard, 13 June 2023.
 
 [Gallery of my science-related art](https://chloeliza.github.io/gallery/)

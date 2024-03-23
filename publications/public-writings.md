@@ -12,6 +12,7 @@ menubar: publications_leftbar
 
 * [“Star Trek as a guide to sharing intimate, personal details.”](https://niemanstoryboard.org/stories/star-trek-as-a-guide-to-sharing-intimate-personal-details/) Nieman Storyboard, 13 June 2023.
     - Featured in [Science Writing News Roundup #156](https://sciencewriting.substack.com/p/science-writing-news-roundup-156), 8 July 2023. 
+    - Featured in the [Editor's pick for the top 10 Nieman Storyboard posts of 2023](https://niemanstoryboard.org/stories/narrative-journalism-war-reporting-social-issues/)
 
 * [“Guidance on the lonely road of writing.”](https://niemanstoryboard.org/stories/writing-workshop-freewriting-narrative-nonfiction/) Contributor, Nieman Storyboard, 13 January 2023.
 
