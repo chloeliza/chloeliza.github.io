@@ -8,6 +8,7 @@ hero_image: /img/art.jpg
 hero_height: is-small
 hero_darken: true
 categories: [neuroscience]
+published: true
 ---
 
 -----

@@ -1,7 +1,8 @@
 - label: Publications
+  link: /publications/
   items:
       - name: Peer-reviewed publications
-        link: /publications/
+        link: /peer-reviewed-publications/
         items:
           - name: Neurodevelopment in the limbic system
             link: /publications/peer-reviewed/neurodevelopment-limbic
@@ -11,6 +12,8 @@
             link: /publications/peer-reviewed/adolescent-stress/
           - name: MicroRNA, memory, and anxiety
             link: /publications/peer-reviewed/microrna/
+          - name: Mental health in marginalized populations
+            link: /publications/peer-reviewed/marginalized-mental-health/
           - name: Miscellaneous neuroscience
             link: /publications/peer-reviewed/miscellaneous-neuroscience/
       - name: Public writings

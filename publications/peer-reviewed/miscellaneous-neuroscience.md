@@ -8,11 +8,7 @@ hero_height: is-small
 menubar: publications_leftbar
 ---
 
-* [Cognitive problems in perimenopause: A review of recent evidence.](https://pubmed.ncbi.nlm.nih.gov/37755656/) Metcalf CA, Duffy KA, **Page CE**, Novick AM. _Current Psychiatry Reports_ (2023)
-
-* [Natural vs. surgical postmenopause and psychological symptoms confound the effect of menopause on executive functioning domains of cognitive experience.](https://pubmed.ncbi.nlm.nih.gov/36806931/) **Page CE**, Soreth B, Metcalf CA, Johnson RL, Duffy KA, Sammel MD, Loughead J, Epperson CN. _Maturitas_ (2023)
-
-* [Racial and ethnic disparities in women's mental health: A narrative synthesis of systematic reviews and meta-analyses of U.S. samples.](https://pubmed.ncbi.nlm.nih.gov/36702342/) Phimphasone-Brady P, **Page CE**, Ali DA, Haller HC, Duffy KA. _Fertility and Sterility_ (2023)
+* [Beyond the serotonin deficit hypothesis: Communicating a neuroplasticity framework of major depressive disorder.](https://pubmed.ncbi.nlm.nih.gov/38816586/) **Page CE**, Epperson CN, Novick AM, Duffy KA, Thompson SM. _Molecular Psychiatry_ (2024)
 
 * [Sex differences in the effects of early life stress exposure on mast cells in the developing rat brain.](https://www.ncbi.nlm.nih.gov/pubmed/31054843) Joshi A, **Page CE**, Damante M, Dye CN, Haim A, Leuner B, Lenz KM. _Hormones and Behavior_ (2019)
 

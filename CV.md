@@ -7,11 +7,12 @@ hero_height: is-medium
 hero_darken: true
 ---
 
-<h3><a href="/doc/CV Chloe Page.pdf" target="_blank">Full CV (PDF)</a></h3>
+<h3><a href="/doc/CV Chloe E Page.pdf" target="_blank">Full CV (PDF)</a></h3>
 
-<h3>Current Role</h3>
+<h3>Appointments</h3>
 <h4>University of Colorado Anschutz Medical Campus</h4>
-<p>Faculty - Instructor, Science Writer [2021 - present]</p>
+<p>Assistant Professor [2024 - present]</p>
+<p>Instructor, Science Writer [2021 - 2024]</p>
 
 -----
 
@@ -21,11 +22,13 @@ hero_darken: true
 <p>Postdoctoral Associate [2020 - 2021]</p>
 <p>Certified in STEM Teaching from the Center for Integrating Research, Teaching, and Learning (CIRTL)</p>
 
+<br>
 
 <h4>Ohio State University, Columbus OH</h4>
 <p>Doctor of Philosophy, Neuroscience; Master of Science [2014-2019]</p>
 <p>Dissertation: <i>Prefrontal excitatory/inhibitory balance in stress and emotional disorders: Evidence for over-inhibition</i></p>
 
+<br>
 
 <h4>Kalamazoo College, Kalamazoo MI</h4>
 <p>Bachelor of Arts, Psychology (minor: biology, theatre; concentration: neuroscience) [2008-2012]</p>

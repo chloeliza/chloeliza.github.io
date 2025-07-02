@@ -8,6 +8,7 @@ hero_image: /img/dataanalytics.jpg
 hero_height: is-small
 hero_darken: true
 categories: [neuroscience, mental-health]
+published: true
 ---
 
 -----

@@ -8,6 +8,7 @@ hero_image: /img/photos.jpg
 hero_height: is-small
 hero_darken: true
 categories: [mental-health]
+published: true
 ---
 
 -----

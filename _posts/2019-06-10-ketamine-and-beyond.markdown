@@ -8,6 +8,7 @@ hero_image: /img/clouds.jpg
 hero_height: is-small
 hero_darken: true
 categories: [neuroscience]
+published: true
 ---
 
 -----

@@ -1,7 +1,7 @@
 # Site Settings
 lang: en
 title: Chloe Page
-# tagline: Bulma Clean Theme
+tagline: Bulma Clean Theme
 # email: your-email@domain.com
 description: >
   Personal and professional website of Chloe Page, Neuroscientist
@@ -44,7 +44,7 @@ exclude:
 
 include: [_categories]
 
-# livereload: true
+livereload: true
 
 sass:
   style: compressed

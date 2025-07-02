@@ -8,6 +8,7 @@ hero_image: /img/desk.jpg
 hero_height: is-small
 hero_darken: true
 categories: [teaching]
+published: true
 ---
 
 -----
